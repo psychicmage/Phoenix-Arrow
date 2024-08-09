@@ -1,0 +1,17 @@
+Phoenix[[:space:]]Arrow filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
+*.psd filter=lfs diff=lfs merge=lfs -text
+ProjectSettings filter=lfs diff=lfs merge=lfs -text
+test.sln filter=lfs diff=lfs merge=lfs -text
+Packages filter=lfs diff=lfs merge=lfs -text
+Phoenix[[:space:]]Arrow.sln filter=lfs diff=lfs merge=lfs -text
+Unity.XR.Interaction.Toolkit.Samples.StarterAssets.csproj filter=lfs diff=lfs merge=lfs -text
+UserSettings filter=lfs diff=lfs merge=lfs -text
+Assembly-CSharp.csproj filter=lfs diff=lfs merge=lfs -text
+Logs filter=lfs diff=lfs merge=lfs -text
+Unity.XR.Interaction.Toolkit.Samples.StarterAssets.Editor.csproj filter=lfs diff=lfs merge=lfs -text
+obj filter=lfs diff=lfs merge=lfs -text
+Library filter=lfs diff=lfs merge=lfs -text
+README.md filter=lfs diff=lfs merge=lfs -text
+Assembly-CSharp-Editor.csproj filter=lfs diff=lfs merge=lfs -text
+Assets filter=lfs diff=lfs merge=lfs -text
